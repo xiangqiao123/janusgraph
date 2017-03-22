@@ -33,3 +33,5 @@ The [project homepage](http://janusgraph.org) contains more information on Janus
 
 Please see [`CONTRIBUTING.md`](CONTRIBUTING.md) for more information, including
 CLAs and best practices for working with GitHub.
+
+2017-03-22 xiangqiao01 join this project 
