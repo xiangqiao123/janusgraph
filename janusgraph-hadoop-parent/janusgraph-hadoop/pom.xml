@@ -3,11 +3,10 @@
     <parent>
         <groupId>org.janusgraph</groupId>
         <artifactId>janusgraph-hadoop-parent</artifactId>
-        <version>0.1.0-SNAPSHOT</version>
+        <version>0.2.0-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>janusgraph-hadoop</artifactId>
-    <packaging>pom</packaging>
     <name>JanusGraph-Hadoop: Universal binary</name>
     <url>http://janusgraph.org</url>
 
